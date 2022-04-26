@@ -1,2 +1,4 @@
-# sergioescof.github.io
-Proyecto pagina web publicado
+# PROYECTO DE PRUEBA
+## APLICACIONES DIVERSAS
+### TE ESPERO
+Manual de usuario. 
